@@ -1,0 +1,11 @@
+{
+    "allowedExtensions":[".less"],
+    "minified" false,
+    "watchFolder": "less",   
+    "outputFolder": "css",
+    "mainFile": "<main-file>",   
+    "sourceMap": false,
+    "less-args": "option1=1,option2=2",
+    "runOnce": true,
+    "enableJs": false
+}
